@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_play1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play 1 people" />
+
+    <Button
+        android:id="@+id/button_play2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PLAY 2 PEOPLe" />
+
+    <Button
+        android:id="@+id/button_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu" />
+</LinearLayout>
